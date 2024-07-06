@@ -1,0 +1,13 @@
+#about img{
+    height: 150px;
+}
+
+@media only screen and (max-width: 764px) {
+    .btn-login {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+  }
